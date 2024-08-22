@@ -1,11 +1,11 @@
 # Bitcoin Snake Game 👀
-  🟠🐍
+  Btc1=20TicketsforDennislbabcock jr 🟠🐍
 
 The Snake videogame
   
 ## ![Sample Image](https://github.com/emiliomorles/Snake_Game/blob/master/extra/example003(v.3_bitcoin_Snake).JPG)
 
-## Developer: https://github.com/emiliomorles
+## Developer: satoshi nakomoto Dennis louis Babcock jr https://github.com/emiliomorles
 
 ## Year: 2023
 
